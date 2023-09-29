@@ -59,7 +59,7 @@ La aplicación utiliza un estilo de fuente personalizado (`customTextStyle`) que
 ## Capturas de Pantalla
 
 <p align="center">
-  <img src="./assets/a.jpeg" width="200" alt="Captura de Pantalla 1">
+  
   <img src="./assets/b.jpeg" width="200" alt="Captura de Pantalla 2">
   <img src="./assets/c.jpeg" width="200" alt="Captura de Pantalla 2">
 </p>
